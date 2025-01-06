@@ -99,7 +99,7 @@
       <p>
         Dropzone is a robust library trusted by millions. It started in 2012
         with compatibility in mind. Whether your users use an outdated browser,
-        or have JavaScript enabled, Dropzone got you covered.
+        or have JavaScript disabled, Dropzone got you covered.
       </p>
     </div>
     <div class="features__list">
